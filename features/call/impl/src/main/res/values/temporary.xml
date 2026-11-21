@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aviva_call_bluetooth_audio_unavailable">Bluetooth audio devices are unavailable for calls on this Android version. Choose another audio device.</string>
+</resources>

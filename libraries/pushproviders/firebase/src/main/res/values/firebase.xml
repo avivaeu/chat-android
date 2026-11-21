@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2026 Aviva. SPDX-License-Identifier: AGPL-3.0-only -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="gcm_defaultSenderId" translatable="false">60506354350</string>
+    <string name="google_api_key" translatable="false">AIzaSyDIeaMl-lII1RFOVX-0YrS5BAA37tDx1tc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDIeaMl-lII1RFOVX-0YrS5BAA37tDx1tc</string>
+    <string name="google_storage_bucket" translatable="false">aviva-chat.firebasestorage.app</string>
+    <string name="project_id" translatable="false" tools:ignore="UnusedResources">aviva-chat</string>
+</resources>

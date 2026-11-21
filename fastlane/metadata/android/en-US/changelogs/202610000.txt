@@ -1,0 +1,1 @@
+First Aviva Chat release with Aviva branding, fixed Aviva server access, secure sign-in through Aviva's account service, and Aviva push notifications.

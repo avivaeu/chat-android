@@ -1,0 +1,22 @@
+Aviva Chat is a private communication app for the Aviva church community. Stay connected with church members using the Aviva-operated chat service.
+
+Features include:
+ • One-to-one and group conversations
+ • Message replies, reactions, polls and pinned messages
+ • Sharing photos, files and other supported media
+ • Voice and video calls when enabled by the service
+ • End-to-end encryption in supported conversations
+
+Aviva Chat connects to Aviva’s self-hosted Matrix services. Sign in with an Aviva account; server selection is managed by Aviva. The app is free to use.
+
+Privacy policy: https://info.chat.avivaeu.org/datenschutz.html
+Terms of service: https://info.chat.avivaeu.org/nutzungsbedingungen.html
+Acceptable use: https://info.chat.avivaeu.org/nutzungsregeln.html
+For help, visit https://info.chat.avivaeu.org/kontakt.html
+To request account deletion, visit https://info.chat.avivaeu.org/konto-loeschen.html
+
+Aviva Chat uses the Matrix open standard for real-time communication.
+
+The application requires the android.permission.REQUEST_INSTALL_PACKAGES permission to enable the installation of applications received as attachments, ensuring seamless and convenient access to new software within the app.
+
+The application requires the USE_FULL_SCREEN_INTENT permission to ensure our users can effectively receive call notifications even when their devices are locked.

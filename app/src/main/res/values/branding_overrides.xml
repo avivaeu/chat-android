@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2026 Aviva. SPDX-License-Identifier: AGPL-3.0-only -->
+<resources>
+    <!-- Override the generated English fallback without editing Localazy output. -->
+    <string name="screen_room_timeline_legacy_call">"Unsupported call. Ask if the caller can use the new Aviva Chat app."</string>
+</resources>
